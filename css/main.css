@@ -1,0 +1,154 @@
+.navbar {
+  background-color: #B7CEEC;
+}
+
+.element {
+  padding-bottom: 2rem;
+  margin-top: -1.5rem;
+  border-top: 3px dashed #bbb;
+}
+
+.topnav {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+   align-items: center;
+     background-color: #293241;
+     padding-bottom: 15rem;
+}
+
+.top-right-nav {
+  margin-right: 10rem;
+  margin-top: 5rem;
+}
+
+.top-right-nav li  {
+  list-style: none;
+  text-decoration: none;
+  padding: 1rem;
+  display: block;
+    list-style: none;
+
+}
+
+
+
+
+.topnav ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+
+
+}
+
+.topnav ul li {
+
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.topnav {
+
+}
+
+.topnav-left {
+  float: left;
+  padding-left: 4.5rem;
+  padding-top: 1rem;
+}
+
+.navbar-buttons li {
+  list-style: none;
+}
+
+.navbar-buttons li a {
+  text-decoration: none;
+  padding: 1rem;
+  display: block;
+}
+
+.name-top{
+  font-size: 3rem;
+  color:  #E0FBFC;
+  margin-left: 7rem;
+  margin-top: 5rem;
+}
+
+.button-nav {
+font-size: 2.5rem;
+}
+
+.button-nav:focus {
+  border-color: #DAA520;
+  border: 3px solid #DAA520;
+}
+
+.button-nav:hover {
+  background-color: #808080;
+  border-bottom: 3px solid #DAA520;
+}
+
+
+
+
+.color {
+  height: 2rem;
+  width: 10rem;
+  background-color: #3D5A80;
+}
+
+.color2 {
+  height: 2rem;
+  width: 10rem;
+  background-color: #98C1D9;
+}
+.color3 {
+  height: 2rem;
+  width: 10rem;
+  background-color: #E0FBFC;
+
+  /*#b3daf6*/
+}
+.color4 {
+  height: 2rem;
+  width: 10rem;
+  background-color: #EE6C4D;
+}
+.color5 {
+  height: 2rem;
+  width: 10rem;
+  background-color: #293241;
+}
+
+h1 {
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+p{
+
+}
+
+span{
+
+}
+
+body {
+  background-color: #cad2fb;
+}
